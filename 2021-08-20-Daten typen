@@ -1,0 +1,20 @@
+x = 10 # intiger 
+y = "haus"# string
+z = "1000"# string
+a = x # intigere
+b = y # string 
+
+x = 4 # intiger 
+f = "v"# string
+l = "pumukel"# string
+m = 1.5 # float 
+p = 7.3  #float
+O = true # boolean
+q = falls # boolean 
+
+
+
+1. Boolean
+2. float
+3. intiger
+4. string

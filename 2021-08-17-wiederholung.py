@@ -46,9 +46,15 @@ while zahl <= 10:
     zahl = zahl + 1
     print(zahl * zahl)
 
-"""
+
 
 zahl = 1
 while zahl <= 10:
     zahl = zahl + 1
     print(zahl * zahl * zahl)
+"""
+zahl = 25
+while zahl >= 5:
+    print(zahl)
+    zahl = zahl - 1
+
